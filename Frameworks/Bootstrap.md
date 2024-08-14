@@ -1,5 +1,5 @@
 ## O que é Bootstrap?
-Bootstrap é uma biblioteca de CSS, JavaScript e fontes que facilita o design e a construção de interfaces de usuário modernas e responsivas. 
+Bootstrap é uma biblioteca de HTML, CSS, JavaScript e fontes que facilita o design e a construção de interfaces de usuário modernas e responsivas. 
 Ele inclui um conjunto de componentes prontos, como botões, formulários, navegações e grids, que podem ser personalizados e combinados para criar layouts consistentes e atraentes.
 
 ## Para que serve o Bootstrap?
